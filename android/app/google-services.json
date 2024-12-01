@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083927632046",
+    "project_id": "inahwu-app",
+    "storage_bucket": "inahwu-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083927632046:android:c42ef8d7c9f5676a8c753f",
+        "android_client_info": {
+          "package_name": "inahwu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZwvPHkQwyNZf4ty-TQRBtiEM5cJiDVes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
